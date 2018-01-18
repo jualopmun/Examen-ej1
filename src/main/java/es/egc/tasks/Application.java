@@ -13,7 +13,7 @@ public class Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
-		logger.info("Initializing application...");
+		logger.info("Iinicializando aplicacion...");
     }
 
     @Bean
